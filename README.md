@@ -1,5 +1,3 @@
-# Diagnosis-of-diabetes-with-ML
-This is a Gaussian ML  model with diabetes data from kaggle site
 # Hi, I'm Yain Neyestani
 - Welcome to my Github repository, it's a Gaussian ML  model repository
 # About repository: 
